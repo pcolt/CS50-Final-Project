@@ -9,4 +9,4 @@ and password.
 The user will be able to loginand logout.
 The user will be able to check and add new things to do to his personal list.
 
-# for more information about the course visit https://cs50.harvard.edu/x/2020/
+for more information about the course visit https://cs50.harvard.edu/x/2020/
