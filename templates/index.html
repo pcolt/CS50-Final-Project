@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Index
+{% endblock %}
+
+{% block main %}
+    <p>TO DOs:</p>
+    <ul>
+        {% for row in rows %}
+            <li>{{ row['symbol'] }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
